@@ -3,7 +3,7 @@
 script_dir=$(dirname "$(realpath "$0")")
 cd "${script_dir}/.."
 
-GENOMEDIR="./genome"
+GENOMEDIR="./genome/HG38"
 
 mkdir -p ${GENOMEDIR}
 

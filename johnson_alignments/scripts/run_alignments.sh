@@ -6,7 +6,7 @@ cd "${script_dir}/.."
 # ---
 
 # inputs
-genome_dir="./genome/STAR"
+genome_dir="./genome/M37/STAR"
 data_dir="./data"
 
 # output
