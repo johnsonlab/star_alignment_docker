@@ -10,3 +10,8 @@ In there create 2 folders:
 Running the docker container will make 2 results folders:
 - alignments: alignment results
 - genome: genome index for hg38, gencode v48
+
+To run the docker container:
+- install Docker desktop
+- make sure it is running
+- run launch_star_docker.sh
